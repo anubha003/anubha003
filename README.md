@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubha003
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on web developing/designing 
+- 💞️ I’m looking to collaborate on web developing
 
 
 <!---
